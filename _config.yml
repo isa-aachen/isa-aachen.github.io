@@ -1,5 +1,5 @@
-url: https://isa-aachen.github.io
-baseurl: /
+url: "https://isa-aachen.github.io"
+baseurl: "/"
 
 # Site settings
 title: ISA-Aachen
